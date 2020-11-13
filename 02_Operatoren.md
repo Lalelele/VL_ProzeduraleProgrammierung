@@ -191,6 +191,8 @@ werden. Siehe die Diskussion unter
 [stackoverflow](https://stackoverflow.com/questions/24886/is-there-a-performance-difference-between-i-and-i-in-c)
 und Scott Meyer "More Effective C++".
 
+ABER: Man beachte die unterschiedliche Wirkung der beiden Varianten bei Zuweisungen (siehe Codebeispiel).
+
 ## Arithmetische Operatoren
 
 | Operator | Bedeutung                    | Ganzzahlen   | Gleitkommazahlen |
