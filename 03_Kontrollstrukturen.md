@@ -650,7 +650,7 @@ Schleifen können verschachtelt werden, d.h. innerhalb eines Schleifenkörpers
 können weitere Schleifen erzeugt und ausgeführt werden. Zur Beschleunigung des
 Programmablaufs werden Schleifen oft durch den Compiler entrollt (*Enrollment*).
 
-Grafisch lassen sich die wichtigsten Formen in mit der Nassi-Shneiderman
+Grafisch lassen sich die wichtigsten Formen in Nassi-Shneiderman
 Diagrammen wie folgt darstellen:
 
 * Iterationssymbol
