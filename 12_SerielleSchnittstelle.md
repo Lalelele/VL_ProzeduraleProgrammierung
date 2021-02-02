@@ -519,7 +519,7 @@ Lassen Sie uns eine Parser-Klasse entwerfen, die alle notwendigen Funktionen umf
 | 2.  | testSingleSignOnNumber(index)                         | Existiert ein Zahlenwert ...                                         |
 | 3.  | testSingleSignOnAlpha(index)                          | Existiert ein Buchstabe ...                                          |
 | 4.  | compareSingleSign(index, sign)                        | Ist das Zeichen an der Stelle `index` gleich `sign`?                 |
-| 5.  | compareSingleSignWithArray(index, signs, sizeofsigns) | Gehört das Zeichen an der Stelle von `index` zum Array von  `signs`? |
+| 5.  | compareSingleSignWithArray(index, signs, sizeofsigns) | Gehört das Zeichen `sign` zum Array von  `signs`? |
 | 6.  | testSubstringOnNumber(start, end)                     | Beinhaltet der Substring von `start` bis `end` nur Zahlen?           |
 | 7.  | testSubstringOnAlpha(start, end)                      | einhaltet der Substring von `start` bis `end` nur Buchstaben?        |
 | 8.    |  ...                                                      |                                                                      |
